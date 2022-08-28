@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nithin-532
+- 👋 Hi, I’m Nithin
 - 👀 I’m interested in programming and related stuff!!!!
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Python projects or any open source projects based on machine learning..
